@@ -16,6 +16,6 @@ I am a young aspiring developer, 18 years old, looking for my first professional
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- [LinkedIn](linkedin.com/in/joão-pedro-correia-pinto-b548a237b)  
 - [E-mail](mailto:joaopedrocorreiapinto@gmail.com)
 
