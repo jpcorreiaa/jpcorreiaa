@@ -1,6 +1,6 @@
 # Hi, I'm João Pedro 👋
 
-I am a young aspiring developer, 18 years old, looking for my first professional experience in programming.
+I am a young aspiring developer, 19 years old, looking for my first professional experience in programming.
 
 ## 💻 Technologies I'm Learning
 
